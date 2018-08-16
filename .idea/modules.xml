@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Data Capstone Project 911 Calls/.idea/Data Capstone Project 911 Calls.iml" filepath="$PROJECT_DIR$/../Data Capstone Project 911 Calls/.idea/Data Capstone Project 911 Calls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data Science Notes Project.iml" filepath="$PROJECT_DIR$/.idea/Data Science Notes Project.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Library_Visualisation/.idea/Library_Visualisation.iml" filepath="$USER_HOME$/Desktop/Library_Visualisation/.idea/Library_Visualisation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tick Tock Toe/.idea/Tick Tock Toe.iml" filepath="$PROJECT_DIR$/../Tick Tock Toe/.idea/Tick Tock Toe.iml" />
+    </modules>
+  </component>
+</project>
